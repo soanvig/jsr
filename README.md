@@ -1,12 +1,6 @@
-**(DISCLAIMER) About activity and version 2.0.0**: This project has incredibly low activity lately. Partially because of my daily work, partially because the project has most of the functionality I desired. The codebase is not as good as it could be, but is OK enough. ~Some day I will release v2 version, completely rewritten.~ For now I support only bugs or any problems, no new features will be added. If you would like to contribute though - feel free to do that. I'll be glad.
+# This version is deprecated
 
-Update 10.02.2021
-
-Currently, I work on [v2.0.0](https://github.com/soanvig/jsr/tree/v2) version of JSR with better API and code structure, easier to maintain.
-You may track development in issues panel.
-
-Old version was created before I had expertise on creating maintanable code, and I've created a little monster. Lovely, but still a monster.
-New version is truly modular, with reusable structures, clean API, TypeScript, and good-quality declarative code (including tests). The hardest part is already done (engine architecture, and label merging), so now it should be easy. New version will also have adapters to all popular frameworks/libraries (React, Vue, and so on)
+See [master](https://github.com/soanvig/mm-jsr) branch for current version.
 
 # Mort&Mortis JS Range (M&M JSR)
 
